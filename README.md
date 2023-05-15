@@ -1,5 +1,5 @@
 # Javascript_projects
- Projects using the JavaScript programming language, made after and during the course: "JavaScript Programming from basic to advanced" on the Udemy teaching platform.
+ Projects using the JavaScript programming language(ECMAScript), made after and during the course: "JavaScript Programming from basic to advanced" at the Udemy teaching platform.
 Link (Course):  https://www.udemy.com/course/curso-de-programacao-em-javascript-do-basico-ao-avancado/
 P.S: Page in PT-BR.
 PT-BR:

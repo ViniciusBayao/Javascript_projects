@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+
+}
+
+h2{
+    text-align: center;
+}
+
+div{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#myBtn1{
+    border: 2px solid cyan;
+    font-size: 16px;
+    color: rgb(44, 6, 6);
+    cursor: pointer;
+}
+
+#myBtn2{
+    border: 2px solid cyan;
+    font-size: 16px;
+    color: rgb(44, 6, 6);
+    cursor: pointer;
+}
+
+#myBtn1:hover, #myBtn2:hover{
+    background-color:rgba(194, 185, 185, 0.486);
+}
